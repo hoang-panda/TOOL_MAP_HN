@@ -1,4 +1,7 @@
-# Hướng dẫn sử dụng
+### Tool chỉ đường như gg map trong phạm vi quận BA ĐÌNH, HÀ NỘI:
+/*****
+*****/
+# Hướng dẫn tạo line:
 - Cài sqlite 
     + Với Ubuntu-based
 
